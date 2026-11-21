@@ -1,0 +1,10 @@
+Metric,Value
+Total Windows,177.0
+True Positives,8.0
+True Negatives,169.0
+False Positives,0.0
+False Negatives,0.0
+Accuracy,100.0
+Precision,100.0
+Recall,100.0
+F1-Score,100.0
